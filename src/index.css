@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2{
+  color: #ff4641
+}
+
+.navbar{
+  background-color: purple;
+}
